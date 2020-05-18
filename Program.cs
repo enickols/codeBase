@@ -18,7 +18,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(@"This is some additional text added by Earlie Nickols, III");
+            Console.WriteLine(@"This is some additional text added ...");
         }
     }
 }
