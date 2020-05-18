@@ -1,0 +1,13 @@
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/ej/Documents/VSCODE/Interfaces/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
