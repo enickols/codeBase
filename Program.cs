@@ -18,7 +18,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(@"This is some additional text added ...");
+            Console.WriteLine(@"This is to make sure the changes have taken effect!!");
         }
     }
 }
