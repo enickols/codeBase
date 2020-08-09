@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 /*
 **An interface is like a contract. In the human world, the contract between the two or more 
 **humans binds them to act as per the contract. In the same way, the interface includes the 
@@ -8,17 +9,34 @@
 
 **In C#, an interface can be defined using the interface keyword. Interfaces can contain methods, 
 **properties, indexers, and events as members.
-
-**Consider the following IPen interface that declares some basic functionality for a pen.
 */
 
 namespace ConsoleApp
 {
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(@"This is to make sure the changes have taken effect!!");
-        }
-    }
+    
+//Interface
+interface IAnimal 
+{
+    void animalSound(); // interface method (does not have a body)
+}
+
+// Pig "implements" the IAnimal interface
+class Pig : IAnimal 
+{
+  public void animalSound() 
+  {
+    // The body of animalSound() is provided here
+    Console.WriteLine("The pig says: wee wee");
+  }
+}
+
+class ConsoleApp 
+{
+  static void Main(string[] args) 
+  {
+    Pig myPig = new Pig();  // Create a Pig object
+    myPig.animalSound();
+  }
+}
+
 }
